@@ -34,3 +34,19 @@
     background-size: cover;
     background-repeat: no-repeat;
 }
+
+/*signup section*/
+#signup-section fieldset, #login-section fieldset{
+    background-color: orange;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 3px 3px 3px 3px midnightblue;
+}
+
+#signup-section fieldset img, #login-section fieldset img{
+    border: 3px solid wheat;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    margin-left: 100px;
+}
